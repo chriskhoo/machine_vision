@@ -13,7 +13,8 @@ This reports the development of a proof of concept model that has achieved an ac
 
 The project uses OpenCV for the image processing and Keras’ deep learning for the model.
 
-The raw data (CK+ dataset) maybe be found [here](http://www.consortium.ri.cmu.edu/ckagree/). 
+The raw data (CK+ dataset) maybe be found [here](http://www.consortium.ri.cmu.edu/ckagree/).
+
 ------
 ## Contents of repository
 - [Final Report](https://github.com/chriskhoo/machine_vision/blob/master/11_Writeup/04_FinalReport.pdf)
