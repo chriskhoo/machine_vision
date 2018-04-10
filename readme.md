@@ -9,7 +9,9 @@ Project: Springboard Capstone Project 2
 ## Summary
 This report guides the reader through the development of a facial expressions (limited to neutral, happy, sad, contempt, surprise, anger, and disgust) classifier. A practical application of the classifier is its use in games on mobile or web applications to assist in developing practicing social skills of children with autism in environments with less pressure.
 
-This reports the development of a proof of concept model that has achieved an accuracy of ~86%. It covers aspects of data acquisition from the CK+ dataset, facial image processing and the training and evaluation of KNN and CNN classification models.
+The final model achieved an accuracy of ~91%. Whilst this level of accuracy might be insufficient for a fully automated labelling system, flagging ambiguous images for manual labelling could provide a very workable compromise of a computer aided solution.
+
+This reports covers aspects of data acquisition from the CK+ dataset, facial image processing and the training and evaluation of KNN and CNN classification models.
 
 The project uses OpenCV for the image processing and Keras’ deep learning for the model.
 
